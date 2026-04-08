@@ -1,0 +1,8 @@
+linux-image-amd64
+initramfs-tools
+systemd-sysv
+grub-pc-bin
+grub2-common
+sudo
+less
+kmod
